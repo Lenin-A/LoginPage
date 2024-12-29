@@ -12,14 +12,14 @@
 ### 2)After the run the project u work on the code.
 
 ## Design:
-### Formik used for forming handling ,and it can simplify for the form creation,Management of the form based on the user data that is input ,even can be used erro handling
-### Yup:Schema Based form library,it can be used in the Email and password for the minimum Length
+### 1)Formik used for forming handling ,and it can simplify for the form creation,Management of the form based on the user data that is input ,even can be used erro handling
+### 2)Yup:Schema Based form library,it can be used in the Email and password for the minimum Length
 ### Password  strength Indicator is used for user can be dynamically identify the length of the character or numbers in the input field. beneficial user to make the strong password in real time scenario
-### State Mangagement used with usestate because used for the managing the password ,and also update the password by the user
+### 3)State Mangagement used with usestate because used for the managing the password ,and also update the password by the user
 ### For styling can be used in the React Native in the  StyleSheet
 
 ## Assumption:
-### based on the assumption taken only the minimum character of the length in the password i focussed atleast minimum 6 characters but other factor uppercase lowercase many like not used in assumption
-### No backend provided ,i did on the frontend application make sure once user done in the login form it can be getting alert messages 
-### And also No error Handling Response are can be used because error handling related to server communication in the backend.
+### 1)based on the assumption taken only the minimum character of the length in the password i focussed atleast minimum 6 characters but other factor uppercase lowercase many like not used in assumption
+### 2)No backend provided ,i did on the frontend application make sure once user done in the login form it can be getting alert messages 
+### 3)And also No error Handling Response are can be used because error handling related to server communication in the backend.
 
